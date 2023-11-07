@@ -48,8 +48,8 @@ Codigo fuentes
 https://github.com/JavierLutin03/Proyecto-final-3/tree/87786e2ecd73601b674176bfb8774b5f02d19acf/proyecto%20final
  
 
-  
-
+Link del video explicativo
+https://youtu.be/jhHO5vL4NKQ
 
  
  
