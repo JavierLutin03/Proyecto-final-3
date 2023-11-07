@@ -52,7 +52,8 @@ Link del video explicativo
 https://youtu.be/jhHO5vL4NKQ
 
  
- 
+ ![Screenshot 2023-11-07 121941](https://github.com/JavierLutin03/Proyecto-final-3/assets/143854152/a471f99e-94c9-4748-a3d4-c2f159fd496d)
+
 
 
 
