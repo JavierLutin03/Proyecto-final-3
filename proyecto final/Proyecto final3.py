@@ -163,7 +163,7 @@ class Ventana(Frame):  #Clase para crear una ventana de bloc de notas con funcio
 		vent_info.iconbitmap('icono.ico')
 		vent_info.geometry('350x200+200+200')
 		Label(vent_info, bg='white', 
-			text= 'URL para acceder al Manual del usuario\n\n ').pack(expand=True)		
+			text= 'URL para acceder al Manual del usuario\n\n  https://github.com/JavierLutin03/Proyecto-final-3/blob/6b78766ec2a419dc5d211ccd09257378a9a54c27/README.md').pack(expand=True)		
 
 	def informacion_de(self):
 	    vent_info = Toplevel(self.master)
